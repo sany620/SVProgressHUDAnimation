@@ -5,13 +5,13 @@
 #Using
 
 ##import
-```#import "SVProgressHUD+Loading.h"```
+`#import "SVProgressHUD+Loading.h"`
 
 ##set animation type
-```[SVProgressHUD setActivityIndicatorType:loadingAnimationtype];```
+`[SVProgressHUD setActivityIndicatorType:loadingAnimationtype];`
 
 ##set tint color
-```[SVProgressHUD setActivityIndicatorTintColor:color];```
+`[SVProgressHUD setActivityIndicatorTintColor:color];`
 
 ##show
-```[SVProgressHUD show];```
+`[SVProgressHUD show];`
