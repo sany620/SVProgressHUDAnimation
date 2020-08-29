@@ -2,7 +2,7 @@
 
 [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) category, let it support more beautify animation from [DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView) [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
 
-#Using
+##Using
 
 ##import
 `#import "SVProgressHUD+Loading.h"`
